@@ -1,8 +1,10 @@
 ## Welcome to KoolKars
 
-A car gallery website made to better understand websites.
-
 This gallery should contain a variety of different car images.
+
+Cars are universally used in every country of the world. Not only because they're useful, but because they're stylish.
+
+This website aims to illustrate that.
 
 ### Markdown
 
