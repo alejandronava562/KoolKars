@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to KoolKars
 
-You can use the [editor on GitHub](https://github.com/alejandronava562/KoolKars/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+A car gallery website made to better understand websites.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This gallery should contain a variety of different car images.
 
 ### Markdown
 
