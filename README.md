@@ -14,32 +14,11 @@ Everywhere in America, the Ford Mustang has become a staple in the muscle car co
 
 ### The Super
 
+The Supra, sounds very much like Super, is Toyota's flagship race car. It so popular that it's even recieved its own meme, "IS THAT A SUPRA!?!?" Boasting tons of horsepower, a sleek design, and a fast and comfortable ride, this is the race car to get.
+
+![SUPRA!?!](https://user-images.githubusercontent.com/91563693/135345368-c417feec-a589-415a-a7b8-158d2ca57a29.png)
 
 
-```markdown
-Syntax highlighted code block
+### Additional Links
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alejandronava562/KoolKars/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Want to see more amazing pictures of KoolKars? Check out this cool [gallery](https://www.gettyimages.com/photos/vintage-muscle-car) to see more spectacular pictures of KoolKars.
