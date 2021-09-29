@@ -17,7 +17,7 @@ Everywhere in America, the Ford Mustang has become a staple in the muscle car co
 
 ### The Super
 
-The Supra, sounds very much like Super, is Toyota's flagship race car. It so popular that it's even recieved its own meme, "IS THAT A SUPRA!?!?" Boasting tons of horsepower, a sleek design, and a fast and comfortable ride, this is the race car to get.
+The Supra, sounds very much like Super, is Toyota's flagship race car. It so popular that it's even recieved its own meme, **Bold** "IS THAT A SUPRA!?!?" **Bold** Boasting tons of horsepower, a sleek design, and a fast and comfortable ride, this is the race car to get.
 
 ![SUPRA!?!](https://user-images.githubusercontent.com/91563693/135345368-c417feec-a589-415a-a7b8-158d2ca57a29.png)
 
