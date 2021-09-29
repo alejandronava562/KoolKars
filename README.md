@@ -10,7 +10,7 @@ This website aims to illustrate that.
 
 Everywhere in America, the Ford Mustang has become a staple in the muscle car community. The horsepower, the design, and the roar of the engine make this car a favorite amongst muscle car lovers. I prefer the classic design of the Ford Mustang over the modern.
 
-[Ford Mustang](![image](https://user-images.githubusercontent.com/91563693/135329905-11655909-5436-4817-9b50-a090ceb0a334.png)
+![Ford Mustang](https://user-images.githubusercontent.com/91563693/135329905-11655909-5436-4817-9b50-a090ceb0a334.png)
 
 ```markdown
 Syntax highlighted code block
