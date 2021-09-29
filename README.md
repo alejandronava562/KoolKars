@@ -10,7 +10,10 @@ This website aims to illustrate that.
 
 Everywhere in America, the Ford Mustang has become a staple in the muscle car community. The horsepower, the design, and the roar of the engine make this car a favorite amongst muscle car lovers. I prefer the classic design of the Ford Mustang over the modern.
 
-![Ford Mustang](https://user-images.githubusercontent.com/91563693/135329905-11655909-5436-4817-9b50-a090ceb0a334.png)
+![Ford Mustang 1968](https://user-images.githubusercontent.com/91563693/135329905-11655909-5436-4817-9b50-a090ceb0a334.png)
+
+![Ford Mustang 2021 Shelby](https://user-images.githubusercontent.com/91563693/135346093-fcfd2d4b-abe7-4cff-9c5e-1278bf715489.png)
+
 
 ### The Super
 
